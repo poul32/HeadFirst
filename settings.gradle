@@ -1,0 +1,4 @@
+rootProject.name = 'HeadFirstPatterns'
+include 'Chapter1'
+include 'Chapter2'
+
