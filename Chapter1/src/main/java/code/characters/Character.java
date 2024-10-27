@@ -1,6 +1,6 @@
-package rb.bars.monitoring.service.characters;
+package code.characters;
 
-import rb.bars.monitoring.service.weapons.WeaponBehavior;
+import code.weapons.WeaponBehavior;
 
 public abstract class Character {
     WeaponBehavior weapon;

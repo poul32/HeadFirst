@@ -1,4 +1,4 @@
-package rb.bars.monitoring.service.weapons;
+package code.weapons;
 
 public interface WeaponBehavior {
     void useWeapon();

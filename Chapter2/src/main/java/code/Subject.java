@@ -1,4 +1,4 @@
-package rb.bars.monitoring.service;
+package code;
 
 public interface Subject {
     void registerObserver(Observer observer);

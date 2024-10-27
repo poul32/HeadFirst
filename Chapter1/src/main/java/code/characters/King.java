@@ -1,4 +1,4 @@
-package rb.bars.monitoring.service.characters;
+package code.characters;
 
 public class King extends Character {
 
